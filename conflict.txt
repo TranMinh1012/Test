@@ -1,0 +1,5 @@
+1) Để giải quyết xung đột conflict trong git, 
+chỉ cần chỉnh sửa nội dung trên file mà nó dẫn tới xung đột, sau đó thực hiện add, commit cho file đó.
+
+2) Để hạn chế conflict trong một nhóm có nhiều thành viên, nên xác định một quy trình ngay từ đầu
+để tất cả các thành viên trong nhóm làm việc trên cùng một dự án được biết khi sử dụng Git.
